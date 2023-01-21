@@ -9,4 +9,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srjeon21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+  <h3>How to get in touch with me:</h3>
+  <h5>✉️: jeon.ser@northeastern.edu</h5>
   </div>
