@@ -5,7 +5,7 @@
  
   <h1 align=center>Hi there, I'm Serin (Serena)! 🧐 </h1>
 
-![Serena's GitHub stats](https://github-readme-stats.vercel.app/api?username=srjeon21&show_icons=true&theme=radical)
+<!--![Serena's GitHub stats](https://github-readme-stats.vercel.app/api?username=srjeon21&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srjeon21&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
